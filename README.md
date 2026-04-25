@@ -30,6 +30,12 @@ First load downloads ~5 MB of face detection model weights — cached by the bro
 4. Switch between Gaussian and Pixelate, adjust intensity
 5. Download the result
 
+## Palette
+
+Coloured with **`india1-03 · काजल KAJAL`** — lamp-soot kohl, applied to babies against the evil eye. Protective concealment is the original blur. Mono near-black-and-white with moss-OK confirmation.
+
+Palette pulled from [**Rangrez**](https://github.com/NakliTechie/rangrez), the global colour-palette library that backs all NakliTechie projects.
+
 ## Part of the NakliTechie series
 
 | Tool | What it does |
